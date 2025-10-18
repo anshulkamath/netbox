@@ -1,0 +1,8 @@
+netboxlabs-netbox-branching==0.7.1
+netbox-inventory==2.4.0
+netbox-lifecycle==1.1.6
+netbox-floorplan-plugin==0.8.0
+netbox-topology-views==4.3.0
+netbox-qrcode==0.0.19
+netboxlabs-diode-netbox-plugin==1.4.1
+netboxlabs-netbox-custom-objects==0.4.0
